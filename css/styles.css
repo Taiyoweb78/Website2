@@ -42,7 +42,9 @@ h3 {
   font-family: 'Sacramento', cursive;
 }
 
-p {}
+p {
+  font-family: 'Press Start 2P', 'Special Elite', cursive;
+}
 
 .Middle-container {
   background-color: red;
